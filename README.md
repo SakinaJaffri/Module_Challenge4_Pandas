@@ -30,7 +30,11 @@ Use the code provided to calculate the percentage of students that passed both m
 
 Create a new DataFrame for the above calculations called district_summary 
 
+
+
 School Summary 
+
+
 
 Use the code provided to select the school type 
 
@@ -76,7 +80,9 @@ Use the code to select only the math_score
 
 Combine each of the scores above into single DataFrame called math_scores_by_grade 
 
+
 Reading Scores by Grade 
+
 
 Use the code provided to separate the data by grade 
 
@@ -86,7 +92,11 @@ Use the code to select only the reading_score
 
 Combine each of the scores above into single DataFrame called reading_scores_by_grade 
 
+
+
 Scores by School Spending 
+
+
 
 Use pd.cut with the provided code to bin the data by the spending ranges 
 
@@ -100,15 +110,20 @@ Use pd.cut with the provided code to bin the data by the school sizes
 
 Use the code provided to calculate the averages 
 
-Create the size_summary DataFrame using the binned and averaged size data(
+Create the size_summary DataFrame using the binned and averaged size data
+
 
 Scores by School Type 
+
+
 
 Group the per_school_summary DataFrame by "School Type" and average the results 
 
 Use the code provided to select the new column data 
 
 Create a new DataFrame called type_summary that uses the new column data 
+
+
 
 Written Report 
 
