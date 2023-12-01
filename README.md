@@ -118,19 +118,12 @@ Summarizes the analysis
 
 Draws two correct conclusions or comparisons from the calculations 
 
-
-PyCitySchool Analysis Summary: 
-
-I analyzed data from school and student files using Pandas and Jupyter Notebooks. Here are key findings:
-
-
+PyCitySchool Analysis Summary: I analyzed data from school and student files using Pandas and Jupyter Notebooks. Here are key findings:
 1.	Contrary to expectations, schools with lower budgets performed better in math and reading, with higher passing rates.
-2.	
-3.	Smaller and medium-sized schools outperformed larger ones, especially in passing scores.
-4.	
-5.	Charter schools outperformed District schools, with the top 5 schools being Charter and the bottom 5 being District.
-6.	
-7.	Academic performance across grades was similar.
-8.	
-9.	Students generally performed better in reading than math, and overall passing rates were lower, indicating variations in subject performance. These conclusions are drawn from a detailed analysis of different dataset summaries explained in the report.
+2.	Smaller and medium-sized schools outperformed larger ones, especially in passing scores.
+3.	Charter schools outperformed District schools, with the top 5 schools being Charter and the bottom 5 being District.
+4.	Academic performance across grades was similar.
+5.	Students generally performed better in reading than math, and overall passing rates were lower, indicating variations in subject performance. These conclusions are drawn from a detailed analysis of different dataset summaries explained in the report.
+
+Note: for more detailed analysis please find a attached Analysis report in files.
     
