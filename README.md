@@ -1,4 +1,4 @@
-# Module Challenge 4: School District Analysis with Pandas
+# School District Analysis with Pandas
 
 ## Project Overview
 In this challenge, you take on the role of Chief Data Scientist for your city's school district. Using Python's Pandas library, you will analyze district-wide standardized test results to identify trends in school performance. The data includes math and reading scores, school information, and other relevant factors. This analysis will assist the school board in making strategic decisions about budgets and priorities.
